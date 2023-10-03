@@ -19,20 +19,20 @@
     margin: 20px;
     font-size: 2vw;
     color: rgb(229, 229, 229);
-    padding:9px;
-    background-color: blanchedalmond;
+    /* padding:9px; */
+    /* background-color: blanchedalmond; */
 }
 .picture{
     /* padding: 20px 20px 20px 20px; */
     padding-top: 40px;
     padding-left: 90px;
     display: flex;
-    justify-content: last baseline;
+    /* justify-content: last baseline; */
 
 }
 .navbar nav a:hover{
     background-color: rgb(145, 184, 201);
-    border-bottom:solid black;
+    /* border-bottom:solid black; */
 }
 .col h1{
     font-size: 80px;
